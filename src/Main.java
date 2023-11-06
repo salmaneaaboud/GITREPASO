@@ -5,5 +5,6 @@ public class Main {
         a = 1 + 1;
         System.out.println("Adios");
         System.out.println("xd");
+        System.out.println("LENGOKOAK PA LA CHAMPIONS");
     }
 }
